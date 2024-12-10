@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    border: 1px solid gray;
+    padding: 40px;
+    background-color: white;
+}
+section ul{
+    list-style-type: none;
+    border-bottom: 2px solid gray;
+    display: flex;
+    background-color: aliceblue;
+}
+section ul li{
+    display: flex;
+    padding: 15px;
+    border-right: 3px solid gray;
+}
